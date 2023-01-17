@@ -1,0 +1,1199 @@
+Q001. What does this sign mean?
+Image: 1.
+A. Slow-moving vehicles ahead.
+B. Intersection ahead.
+C. School crossing ahead.
+D. Stop sign ahead, slow down.
+A001. D.
+Explanation: Warning drivers in advance of an upcoming stop sign so they can slow down.
+Drivers must stop the vehicle completely by applying the brakes firmly and ensuring that the vehicle has stopped moving. "Pausing" the vehicle by braking slightly, then continuing through the intersection without stopping completely (also known as a "rolling stop") is not considered a complete stop. Drivers who do not come to a complete stop can be charged by the police. Once the vehicle is fully stopped, drivers should wait until the way is clear before entering the intersection.
+
+Q002. What does this sign mean?
+Image: 1.
+A. Winding road ahead.
+B. The road ahead turns left then right.
+C. There is a narrow road ahead.
+D. There is a slight bend in the road ahead.
+A002. A.
+Explanation: This sign represents Winding Road Ahead. The view of the other vehicles on the road might be obstructed. Be prepared to reduce speed; watch for oncoming traffic.
+
+Q003. What does this sign mean?
+Image: 1.
+A. Closed lane ahead.
+B. Construction work ahead.
+C. Winding road ahead.
+D. Temporary detour from normal traffic route.
+A003. D.
+Explanation: Temporary detour from normal traffic route due to construction work.
+
+Q004. What does this sign mean?
+Image: 1.
+A. Mountain zone ahead.
+B. Bump or uneven pavement on the road ahead.
+C. Factory buildings ahead, watch for hidden entrances.
+D. Construction zone ahead.
+A004. B.
+Explanation: Bump or uneven pavement on the road ahead. Slow down and keep control of your vehicle.
+
+Q005. What does this sign mean?
+Image: 1.
+A. Pavement narrows ahead.
+B. The road is narrow ahead.
+C. Railway tracks ahead.
+D. There is a narrow bridge ahead.
+A005. B.
+Explanation: The road narrows ahead. (A. also.) Pavement narrows ahead. Drive with caution.
+
+Q006. What does this sign mean?
+Image: 1.
+A. Animals are allowed.
+B. Game farm ahead.
+C. Watch for the deer hunters.
+D. Deer regularly cross this road; be alert for animals.
+A006. D.
+Explanation: Deer regularly cross the road in this area; slow down, be alert for animals and drive with caution. Be prepared to stop or take action to avoid deer on the road. Deer are large, heavy animals. Colliding with a deer can cause serious damage to the vehicle and injury or death to its occupants.
+
+Q007. What does this sign mean?
+Image: 1.
+A. Gravel road ahead.
+B. Share the road with oncoming traffic.
+C. The two-way road ahead is split with a median.
+D. A narrow bridge ahead.
+A007. B.
+Explanation: Warning Sign: Share the Road with Oncoming Traffic. The road is not divided with a median. Drive with caution; do not pass unless it is safe to do so.
+
+Q008. What does this sign mean?
+Image: 1.
+A. Two-way traffic.
+B. Intersection ahead. The arrow shows which direction of traffic has the right-of-way.
+C. One way traffic.
+D. Obstruction ahead.
+A008. B.
+Explanation: Traffic driving in the direction of the arrow has the right-of-way at the intersection ahead. Drivers should be cautious when approaching the intersection in case other traffic does not stop. When approaching any intersection, drivers should always check left-center-right to ensure the intersection is clear and it is safe to proceed.
+
+Q009. What does this sign mean?
+Image: 1.
+A. Right turn ahead.
+B. No left turns.
+C. Three-way stop ahead that is hidden.
+D. Drivers on the sideroad at the intersection ahead don't have a clear view of traffic.
+A009. D.
+Explanation: This sign is to warn drivers that drivers entering the roadway from a hidden side road may not have a good view of traffic and more caution is required.
+
+Q010. What does this sign mean?
+Image: 1.
+A. Paved surface ends ahead.
+B. Airport runway up ahead.
+C. The road ends ahead.
+D. The two-way road ends ahead.
+A010. A.
+Explanation: This sign represents that the paved surface is ending ahead; slow down and drive with caution. Gravel roads can be dangerous, especially if the road has been freshly graded (grading a road involves spreading a fresh layer of gravel on the road to level it out). Driving at high speeds on a thick layer of gravel could cause the vehicle to fishtail or spin, and could result in an accident.
+
+Q011. What does this sign mean? 
+Image: 1.
+A. Upcoming steep hill, shift into a lower gear.
+B. Drive carefully and look out for falling rocks.
+C. Construction zone ahead.
+D. You are in a mountain zone.
+A011. B.
+Explanation: Watch for fallen rock and be prepared to avoid a collision.
+
+Q012. What does this sign mean?
+Image: 1.
+A. Ice on the bridge.
+B. A winding road ahead.
+C. Chances of hydroplaning ahead.
+D. Pavement is slippery when wet.
+A012. D.
+Explanation: Pavement is slippery when wet. Slow down and drive with caution when the pavement is wet. Sudden sharp braking in wet conditions may result in skids, fishtailing, or even spin outs. Use caution when braking.
+
+Q013. What does this sign mean?
+Image: 1.
+A. Road width is 3.9m ahead. Drive with care.
+B. Only vehicles over 3.9m are allowed ahead.
+C. Underpass ahead with maximum 3.9m clearance height on the overpass.
+D. Road ends in 3.9m.
+A013. C.
+Explanation: Underpass ahead. Take care if you are driving a tall vehicle. The sign shows how much room you have.
+
+Q014. What does this sign mean?
+Image: 1.
+A. Railway crossing ahead.
+B. Traffic lights ahead.
+C. Stop sign ahead.
+D. School zone ahead.
+A014. B.
+Explanation: Traffic lights ahead. Drivers should slow down and be prepared to stop. This sign is used to warn drivers that they are approaching a regulated intersection. This sign usually appears when an intersection is hidden, for example, by a sharp curve in a road.
+
+Q015. What does this sign mean?
+Image: 1.
+A. Slow down for trucks.
+B. Truck entrance on the left side of the road ahead.
+C. No trucks allowed on the road.
+D. Truck entrance on the right side of the road ahead.
+A015. D.
+Explanation: Truck entrance on the right side of the road ahead. If the sign shows the truck on the left, the entrance is on the left side of the road.
+
+Q016. What does this road sign mean?
+Image: 1.
+A. Bus entrance ahead on the right.
+B. Truck entrance ahead on the right.
+C. Fire truck entrance ahead on the right.
+D. None of the above.
+A016. C.
+Explanation:
+
+Q017. What does this road sign mean?
+Image: 1.
+A. Bus entrance ahead on the right.
+B. A hidden school bus stop.
+C. Truck entrance ahead on the right.
+D. Hidden driveway ahead.
+A017. A.
+Explanation: This sign indicates an upcoming bus entrance on the right, and vehicles should be prepared to yield to buses entering the roadway.
+
+Q018. What does this sign mean?  
+Image: 1.
+A. The road narrows ahead.
+B. A split road ahead.
+C. A narrow bridge ahead.
+D. The two-way road curves ahead.
+A018. C.
+Explanation: This sign warns drivers of a narrow bridge ahead.
+
+Q019. What does this sign mean?
+Image: 1.
+A. There may be water flowing over the road.
+B. Bridge ahead.
+C. Payment on the road is broken ahead.
+D. Icy bridge ahead.
+A019. A.
+Explanation: There may be water flowing over the road. Proceed with caution to avoid hydroplaning.
+The roadway ahead may be under water. This can happen in low-lying areas where creeks or rivers regularly overflow their banks. Slow down and proceed with caution. If the water is too deep, do not cross: find an alternate route.
+
+Q020. What does this sign mean?
+Image: 1.
+A. There is a one-way road ahead.
+B. Slight bend or curve in the road ahead.
+C. This lane exits to the right.
+D. Prepare to exit ahead.
+A020. B.
+Explanation: This sign warns of a slight bend or curve in the road to the right ahead; be prepared to adjust speed if necessary.
+
+Q021. What does this road sign mean?  
+Image: 1.
+A. Lane usage sign permitting all turns, including left turns.
+B. Lane usage sign meaning right turn only.
+C. Advance warning of danger.
+D. No parking from arrows to corner.
+A021. B.
+Explanation: This is a Right Turn Only sign.
+
+Q022. What does this sign mean?
+Image: 1.
+A. Left turn only.
+B. Reverse curve left.
+C. Do not turn left.
+D. Right turn only.
+A022. B.
+Explanation: This is a Left Reverse Curve sign.The road curves ahead. Adjust speed if necessary.
+
+Q023. What does this sign mean?  
+Image: 1.
+A. Right turn only.
+B. Reverse curve right.
+C. Do not turn right.
+D. Left turn only.
+A023. B.
+Explanation: This is a Right Reverse Curve sign.The road curves ahead. Adjust speed if necessary.
+
+Q024. What does this sign mean?  
+Image: 1.
+A. School bus parking ahead.
+B. School zone ahead, reduce speed to 40 km/h.
+C. The is a hidden school bus stop ahead, slow down and drive with caution.
+D. School bus entrance ahead.
+A024. C.
+Explanation: This road sign warns you that you are coming to a Hidden School Bus Stop Ahead. Slow down, drive with extra caution, watch for children and for a school bus with flashing red lights.
+
+Q025. What does this sign mean?
+Image: 1.
+A. The road bends to the right.
+B. The right lane ends ahead. You must merge.
+C. There is a narrow road ahead.
+D. The shared lanes end ahead.
+A025. B.
+Explanation: Right lane ends ahead. If you are in the right-hand lane, you must merge safely with traffic in the lane to the left.
+Drivers should merge into the left lane. Be certain to signal, complete a proper shoulder check, and change to the left lane when it is safe to do so.
+
+Q026. What does this sign mean?
+Image: 1.
+A. Keep to the right of the traffic island.
+B. A narrow bridge ahead.
+C. The third lane slightly bends to the left.
+D. Lane ends and is closed for roadwork. Merge safely.
+A026. D.
+Explanation: Lane ahead is closed for roadwork. Obey the speed limit and merge with traffic in the open lane.
+
+Q027. What does this sign mean?  
+Image: 1.
+A. Narrow road ahead.
+B. No right turn or left turn.
+C. Railway crossing ahead.
+D. The road is branching off ahead.
+A027. D.
+Explanation: This is a Road Branching Off Ahead road sign. This is a warning sign showing that the road you're on is branching off ahead towards the right.
+A new road branches off to the right ahead. Drivers should have their route planned and know which direction to take. If planning to take the right road, drivers should be prepared to adjust their speed as necessary. Drivers planning to continue on the original road should be prepared to slow down in case the vehicle ahead slows down to take the roadway to the right.
+
+Q028. What does this sign mean?
+Image: 1.
+A. The road exits to the right.
+B. Keep right.
+C. Gas station on the right.
+D. These signs guide drivers around sharp curves in the road.
+A028. D.
+Explanation: Chevron, also called arrowhead signs are posted in groups to guide drivers around sharp curves in the road. This sign warns drivers that there is a sharp curve in the road head. Adjust speed if needed.
+
+Q029. What does this sign mean?
+Image: 1.
+A. Construction zone ahead.
+B. Warning the road ends in the direction of the arrow.
+C. Sharp turn or bend in the road in the direction of the arrow.
+D. Keep to the right side of the road.
+A029. C.
+Explanation: Sharp turn or bend in the road in the direction of the arrow. The checkerboard border warns of danger. Slow down; be careful.
+
+Q030. What does this sign mean?
+Image: 1.
+A. There is a hidden intersection ahead.
+B. A sharp bend or turn in the road ahead.
+C. Traffic must exit to the right
+D. Keep right.
+A030. B.
+Explanation: The road turns sharply ahead. Reduce speed and follow the direction of the road.
+
+Q031. What does this sign mean?
+Image: 1.
+A. Dead end.
+B. Do not stop.
+C. Construction zone.
+D. Railway crossing ahead.
+A031. A.
+Explanation: The road ends at the sign. Do not attempt to drive beyond the sign. Drivers should plan an appropriate route to their destination.
+
+Q032. What does this sign mean?
+Image: 1.
+A. The bridge ahead lifts or swings to let boats pass.
+B. There is a narrow bridge ahead.
+C. There is ice on the bridge ahead.
+D. There is a broken bridge ahead.
+A032. A.
+Explanation: The bridge ahead lifts or swings to let boats pass.
+
+Q033. What does this sign mean?
+Image: 1.
+A. Pedestrians may not enter here.
+B. Railway crossing ahead.
+C. This is a pedestrian crossover. Be prepared to stop and yield the right-of-way to pedestrians.
+D. Pedestrians are not allowed to cross.
+A033. C.
+Explanation: You are approaching a pedestrian crosswalk. Slow down, yield to pedestrians and be prepared to stop.
+
+Q034. What does this sign mean?
+Image: 1.
+A. Construction zone. Men at work ahead.
+B. Do not pass any vehicle within 2 meters of a pedestrian crossing.
+C. Watch for pedestrians and safely share the road with them.
+D. School zone ahead.
+A034. C.
+Explanation: Watch for pedestrians and be prepared to share the road with them.
+Pedestrians are permitted to use the roadway, and may be crossing the road. Be prepared to share the road with pedestrians. Yield the right-of-way to pedestrians on the road.
+
+Q035. What does this sign mean?
+Image: 1.
+A. Construction ahead, no pedestrian access.
+B. No pedestrians allowed on this road.
+C. There is no crosswalk in the area.
+D. Do not enter.
+A035. B.
+Explanation: Pedestrians are not permitted or allowed to walk on or cross the road. Drivers must always be cautious and take appropriate measures to avoid pedestrians, even if the pedestrians are in the wrong.
+
+Q036. What does this sign mean?
+Image: 1.
+A. School zone, reduce your speed to 50 km/h.
+B. School bus loading zone up ahead.
+C. Slow down, school zone ahead, watch for children and drive with extra caution.
+D. City center up ahead.
+A036. C.
+Explanation: School zone signs are very common in residential neighbourhoods with schools. These five-sided, fluorescent yellow/green signs are to remind drivers to slow down, drive with extra caution and watch for children. Be prepared to stop and yield right-of-way to children. Obey the directions of any crossing guard or school safety patroller.
+
+Q037. What does this sign mean?
+Image: 1.
+A. School zone ahead slow down.
+B. Hidden school bus stop ahead.
+C. School crossing. Watch for children and follow the instructions of the crossing guard.
+D. Intersection ahead.
+A037. C.
+Explanation: These signs warn of a school crossing. Watch for children and follow the directions of the crossing guard or school safety patroller.
+
+Q038. What does this road sign mean?
+Image: 1.
+A. A school crossing is ahead; follow the directions of the crossing guard or school safety patroller.
+B. Wheelchair crossing.
+C. Watch for people with disabilities.
+D. Passing is not allowed.
+A038. A.
+Explanation: This is a warning of School Crossing Ahead road sign.
+
+Q039. What does this sign mean?
+Image: 1.
+A. Observe the speed limit shown when the yellow lights are flashing.
+B. Reduce your speed to 40 km/h at all times.
+C. You are approaching a school bus zone.
+D. Reduce your speed to 40 km/h if you see pedestrians.
+A039. A.
+Explanation: The speed limit in this zone is lower during school hours. Observe the speed limit shown when the yellow lights are flashing.
+
+Q040.  What does this sign mean?
+Image: 1.
+A. You are approaching a school zone crosswalk.
+B. You are entering a school zone.
+C. All vehicles must stop for a school bus in all directions when lights are flashing.
+D. All vehicles must stop on the side of the road where the school bus is.
+A040. C.
+Explanation: This sign is for multi-lane highways when there is no center median divider. It informs drivers approaching from both directions that they must stop for a school bus when it's signal lights are flashing.
+
+Q041. What does this sign mean?
+Image: 1.
+A. This is a construction zone.
+B. There is a stop sign ahead.
+C. This is a school zone.
+D. When a school bus arm swings out with red lights flashing, you must stop and are prohibited from passing.
+A041. D.
+Explanation: When a school bus arm swings out with red lights flashing, you must stop and are prohibited from passing.
+
+Q042. What does this sign mean?
+Image: 1.
+A. Two roads will join into one. Drivers on both roads should work towards merging safely.
+B. There is a hidden intersection ahead.
+C. You are approaching a one-way street.
+D. Two roads will join into one. Driver on the right has the right-of-way.
+A042. A.
+Explanation: This sign warns about merging with traffic, where traffic on two roads are equally responsible to merge correctly. Two roads going in the same direction are about to join into one. Drivers on both roads are equally responsible for seeing that traffic merges smoothly and safely.
+
+Q043. What does this sign mean?
+Image: 1.
+A. No bicycles allowed.
+B. Bicycle crossing ahead.
+C. Bicycles are allowed on this road.
+D. Bicycles are not allowed.
+A043. B.
+Explanation: This sign represents a bicycle crossing the road  ahead. Slow down and proceed with caution. Be prepared to stop and yield the right-of-way to cyclists.
+
+Q044. What does this sign mean?
+Image: 1.
+A. Bicycle shop ahead.
+B. This road is an official bicycle route.
+C. Bicycle parking.
+D. Bicycle not allowed.
+A044. B.
+Explanation:
+
+Q045. What does this road sign mean?
+Image: 1.
+A. This lane is not for bicycles.
+B. This lane is for buses only.
+C. This lane is for bicycles only.
+D. This lane is for trucks only.
+A045. C.
+Explanation:
+
+Q046. What does this sign mean?
+Image: 1.
+A. Lane is too narrow for side-by-side driving.
+B. Bicycle crossing.
+C. Warns motorists to provide safe space on the road for cyclists.
+D. School bus stop ahead.
+A046. C.
+Explanation:
+
+Q047.  What does this sign mean?
+Image: 1.
+A. Bicycles must not turn right.
+B. Lane is reserved for bicycles only.
+C. No bicycles allowed on this route (road).
+D. School zone ahead.
+A047. C.
+Explanation: No bicycles allowed on this road. Due to safety reasons sometimes a road or path may be identified as motor vehicles only and this sign is placed to warn cyclists not to ride on that road.
+Cyclists are not permitted on the road. Drivers must always be cautious and take appropriate measures to avoid cyclists, even if the cyclists are in the wrong.
+
+Q048. What does this sign mean?
+Image: 1.
+A. Caution: Animal Crossing.
+B. Snowmobiles cross this road.
+C. Snowmobile parking ahead.
+D. Bicycle parking permitted.
+A048. B.
+Explanation: Snowmobiles cross the road. Be prepared to slow down and stop if needed.
+
+Q049. What does this sign mean?
+Image: 1.
+A. Snowmobile rentals up ahead.
+B. Snowmobiles cross this road.
+C. No snowmobiles allowed on this road.
+D. Snowmobiles may park here.
+A049. B.
+Explanation: Snowmobiles cross this road. Slow down and proceed with caution.
+
+Q050. What does this road sign mean?
+Image: 1.
+A. Only snowmobiles may park here.
+B. Snowmobiles may not use this road.
+C. There is a snowmobile repair shop ahead.
+D. Snowmobiles may use this road.
+A050. D.
+Explanation: This is a Snowmobiles May Use This Road sign.
+
+Q051. What does this sign mean?
+Image: 1.
+A. Hazard close to the edge of the road. The downward lines show the side on which you may not safely pass.
+B. Pedestrian crosswalk ahead.
+C. Hazard close to the edge of the road. The downward lines show the side on which you may safely pass.
+D. Detour route ahead.
+A051. C.
+Explanation: Used to help drivers be aware of hazards on their driving route and which side to approach the hazard in order to safely navigate around it.
+
+Q052. What does this sign mean?
+Image: 1.
+A. The road is split by a median ahead, keep to the right.
+B. The road curves to the right.
+C. A narrow bridge is ahead.
+D. Pass other traffic on the right.
+A052. A.
+Explanation: Divided highway begins: traffic travels in both directions on separated roads ahead. Keep to the right-hand road. Each road carries one-way traffic. This is a warning sign saying that the road ahead is separated by a median. Keep to the right of the median or barrier.
+Each direction has its own road. Keep to the right-hand road. The new road may have more than one lane, but all lanes travel in the same direction.
+
+Q053. What does this sign mean?
+Image: 1.
+A. Divided highway ends. Keep to the right.
+B. Divided highway begins.
+C. One way road ahead.
+D. Narrow road ahead.
+A053. A.
+Explanation: Divided highway ends: traffic travels in both directions on the same road ahead. Keep to the right-hand side.
+Two-way traffic begins ahead. Use caution, and keep to the right side of the road.
+
+Q054. What does this sign mean?
+Image: 1.
+A. Truck runaway ahead.
+B. There is a steep hill ahead, drive accordingly. You may need to use a lower gear.
+C. Caution truck entrance ahead.
+D. Construction zone ahead.
+A054. B.
+Explanation: Steep hill ahead. You may need to use a lower gear.
+Drivers should be prepared to brake, and may need to change to a lower gear. The number on the sign indicates the grade (steepness) of the hill.
+
+Q055. What does this sign mean?
+Image: 1.
+A. Traffic may travel in one direction only.
+B. Exit this way.
+C. Railway crossing this way.
+D. Stay to the right of the island.
+A055. A.
+Explanation: Traffic on the road travels in one direction and in the direction of the arrow only. Do not travel in the opposite direction of the arrow. Even if a GPS says to travel the opposite direction of the sign, drivers must not do so. Find an alternate route to the destination.
+
+Q056. What does this sign mean?
+Image: 1.
+A. Two lanes ahead: both lanes travel in the same direction.
+B. Road turns to the right.
+C. Merge Ahead.
+D. Road turns to the left.
+A056. A.
+Explanation: Two-lane section of highway ahead. Slower drivers should keep to the right. Drivers who wish to travel faster (within the speed limit) should pass on the left in the extra lane, then move back to the right lane. Smaller highways often have passing lanes at regular intervals to allow faster traffic to pass under safer conditions. Drivers should be aware that oncoming traffic may also use the extra lane to pass if conditions permit and are safe. Keep Right Except to Pass is the general rule when travelling in any situation where there are two or more lanes of traffic travelling in the same direction.
+Keep to the right lane except when passing on two-lane sections where climbing or passing lanes are provided.
+
+Q057. What does this sign mean?
+Image: 1.
+A. Right turn and passing line ahead.
+B. Keep to the right lane except when passing on two-lane sections.
+C. The road turns to the right.
+D. Right lane exits.
+A057. B.
+Explanation: Keep to the right lane except when passing on two-lane sections where climbing or passing lanes are provided.
+
+Q058. What does this sign mean?
+Image: 1.
+A. No parking between the arrows at any time.
+B. Parking reserved for permit holders only.
+C. You may park in the area between the signs for a max of 30 mins.
+D. You may park in the area between the arrows during the times posted for a max of 30 mins.
+A058. D.
+Explanation: These parking regulatory signs are usually used in pairs or groups to indicate areas where you can park, the specific parking times allowed and the maximum time you can leave your vehicle.
+
+Q059. What does this road sign mean?
+Image: 1.
+A. No parking at any time.
+B. Only weekend parking is allowed.
+C. You may park in the designated area during the posted times.
+D. You may not park between the signs during the posted times.
+A059. C.
+Explanation: You may park in the designated area during the posted times only.
+
+Q060. What does this sign mean?
+Image: 1.
+A. Curb area reserved for vehicles with a valid Accessible Parking Permit picking up/dropping passengers with disabilities.
+B. Curb area reserved for loading and unloading of passengers.
+C. Curb area reserved for ambulances.
+D. Curb area parking for all vehicles except accessibility permit holders.
+A060. A.
+Explanation: This sign reserves curb area for vehicles displaying a valid Accessible Person Parking Permit picking up and dropping off passengers with disabilities.
+
+Q061. What does this sign mean?
+Image: 1.
+A. No stopping except to unload passengers.
+B. Do not come to a complete stop.
+C. You may stand in the area between the signs.
+D. No stopping at any time between the signs.
+A061. D.
+Explanation: These signs occur in pairs or groups. Drivers are not permitted to stop between these signs. This means you may not stop your vehicle in this area, even to load or unload passengers.
+
+Q062. What does this sign mean?
+Image: 1.
+A. Parking allowed in the area between the signs.
+B. No parking in this area.
+C. The area between the signs is reserved for public transit.
+D. Do not park in the area between the signs.
+A062. D.
+Explanation: The No Standing sign directs drivers to not stop their vehicles in this area between the signs, except while loading or unloading passengers.
+
+Q063. What does this sign mean?
+Image: 1.
+A. You have the right-of-way.
+B. Stop for pedestrians.
+C. You must let traffic in the intersection or close to it go first.
+D. Construction zone ahead.
+A063. C.
+Explanation: This is a Yield sign. Drivers must give the right-of-way to other traffic. When approaching this sign, be prepared to stop and yield the right of way to vehicles in the intersection or close to it and proceed only when the way is clear.
+
+Q064. What does this sign mean?
+Image: 1.
+A. Do not drive (straight) through the intersection.
+B. You are allowed to go straight through the intersection.
+C. Do not turn right or left.
+D. Do not stop at the intersection ahead.
+A064. A.
+Explanation: You are not permitted to drive straight through the intersection. You must turn right or left.
+Vehicles are not permitted to enter this road. Drivers should plan their routes ahead. Even if a GPS indicates that the driver should enter the road, drivers are not permitted to enter. Drivers should find an alternate route to their destination.
+
+Q065. What does this road sign mean?
+Image: 1.
+A. No right turn.
+B. Narrow bridge ahead.
+C. No right turn on red.
+D. Divided highway ends.
+A065. C.
+Explanation: This is a No Right Turn on Red sign.
+
+Q066. What does this sign mean?
+Image: 1.
+A. Turn right only on a red light.
+B. Right turn not allowed.
+C. No right turn allowed on a red light.
+D. Do not enter on a red light.
+A066. C.
+Explanation: Do not turn right when facing a red light at the intersection. This sign is posted in intersections where for safety reasons you cannot make a right turn on a red light. You must wait till the light turns green before turning right at the intersection.
+Drivers are not permitted to turn right when the traffic light is red. This sign appears at intersections where it is unsafe for drivers to turn right when the traffic light is red, such as at intersections when two lanes of oncoming traffic have an advanced green light: the lane may be occupied by oncoming traffic.
+
+Q067.  What does this sign mean?
+Image: 1.
+A. No left turns allowed during the posted days/times.
+B. No lefts turn allowed at this intersection.
+C. Left turn not allowed during rush hours.
+D. No U-turn allowed during the posted times.
+A067. A.
+Explanation: This regulatory sign instructs drivers to not turn left during the times shown.
+Drivers are not permitted to turn left during the time periods indicated on the sign. This is usually due to traffic patterns in the area. During the time periods indicated, drivers should plan an alternate route to their destination.
+
+Q068. What does this road sign mean?
+Image: 1.
+A. You must make a right turn only.
+B. There is a hidden intersection ahead.
+C. You are approaching a traffic island.
+D. You must not make a left turn.
+A068. D.
+Explanation: This is a No Left Turn road sign. Do not turn left at the intersection. Drivers should plan their route in advance. Even if a GPS says to turn left, do not turn left at the intersection. Find an alternate route to the destination that does not involve a left turn at the intersection.
+
+Q069. What does this sign mean?
+Image: 1.
+A. Two-way traffic.
+B. Street racing permitted.
+C. Passing permitted.
+D. Parallel parking permitted.
+A069. C.
+Explanation: Drivers are permitted to pass on the road in this section. Check for oncoming traffic, and pass only if it is safe to do so.
+
+Q070. What does this sign mean?
+Image: 1.
+A. You may pass on this road.
+B. Do not pass on this road.
+C. Two-way traffic ending soon.
+D. Do not enter.
+A070. B.
+Explanation: For your safety, there is no passing allowed on this road.
+Drivers are not permitted to pass along this section of the road. This sign usually appears when road conditions make it unsafe to pass. Drivers must not pass other vehicles. If a vehicle ahead is travelling slowly, drivers should adjust their speed accordingly, and pass only when signage permits and it is safe to do so.
+
+Q071. What does this sign mean?
+Image: 1.
+A. Pass only to the right.
+B. Do not ever pass, this is a single lane.
+C. Do not pass vehicles with this flashing sign.
+D. Cars are not allowed when flashing.
+A071. C.
+Explanation: Do not pass the pilot vehicle or pace vehicle bearing this sign.
+
+Q072. What does this sign mean?
+Image: 1.
+A. Railway crossing ahead.
+B. Dead end up ahead.
+C. Come to a complete stop.
+D. Do not enter this road.
+A072. D.
+Explanation: Keep out (Do not enter). Vehicles are not permitted to enter this road. Under no circumstances you are allowed to enter a road which has this regulatory sign. Drivers should plan their routes ahead. Even if a GPS indicates that the driver should enter the road, drivers are not permitted to enter. Find an alternate route to the destination.
+
+Q073. What does this sign mean?
+Image: 1.
+A. Drivers in lane 3 must go straight and then turn right.
+B. Drivers in lane 1 must go straight and then left.
+C. The driver in lanes 1, 2 or 3 must travel in the direction of lane's arrow.
+D. Drivers in lane 2 can go in any direction.
+A073. C.
+Explanation: These signs, above the road or on the pavement before an intersection, tell drivers the direction they must travel.
+
+Q074. What do these signs mean?
+Image: 1.
+A. These signs tell drivers the direction they must travel.
+B. You may drive in any direction from any lane.
+C. Do not enter this area.
+D. You may ignore these signs.
+A074. A.
+Explanation: These signs, above the road or as markings on the pavement before an intersection, tell drivers the direction they must travel. For example, the driver in lane one must turn left; the driver in lane two must turn right or go straight ahead; and the driver in lane three must turn right.
+
+Q075.  What does this sign mean?
+Image: 1.
+A. Driver in this lane must turn right.
+B. No parking from arrows to corner.
+C. Left turn lane.
+D. Danger ahead: veer to the right.
+A075. A.
+Explanation: Traffic in this lane must turn right. Drivers should plan their routes ahead and be certain to choose the correct lane.
+
+Q076.  What does this sign mean?
+Image: 1.
+A. The speed limit is 50 km/h ahead.
+B. The speed limit is 50 km/h.
+C. It is 50 km/h till the next speed sign.
+D. The speed limit is 50 km/h for a distance of 50km.
+A076. A.
+Explanation: Speed limit changes ahead soon, with maximum speed of 50 km/h. This is a regulatory sign indicating that there is a speed limit change ahead. You must be prepared to slow down to the posted speed when you see another speed limit sign without an arrow. Drivers should be prepared to adjust their speed accordingly.
+
+Q077. What does this sign mean?
+Image: 1.
+A. Maximum speed of 50 km/h from this sign to the next sign.
+B. End of 50 km/h speed zone.
+C. Speed limit changes ahead to a maximum of 50 km/h.
+D. Maximum safe speed on the ramp is 50 km/h.
+A077. D.
+Explanation: This sign represents maximum speed on ramps. Follow the speed limit.
+
+Q078. What does this road sign mean?
+Image: 1.
+A. Shows maximum speed limit on the highway outside of a city , town , village or built - up area.
+B. Speed limit changes ahead.
+C. Maximum safe speed for the curve.
+D. Maximum safe speed on ramp.
+A078. A.
+Explanation: This is a Maximum Speed Limit On The Highway road sign .
+
+Q079. What does this sign mean?
+Image: 1.
+A. There is an intersection ahead on the right.
+B. Stay to the right of the traffic island.
+C. Stay to the left of the traffic island.
+D. The road curves to the left soon.
+A079. B.
+Explanation: This sign provides advance notice to drivers that a traffic island is coming up and they need to keep to the right of it. You must keep to the right of the traffic island when you see this sign.
+This sign indicates drivers must remain to the right of the traffic island. Traffic islands are used to divide a roadway into two separate sections, often at intersections.
+
+Q080. What does this sign mean?
+Image: 1.
+A. No left turns allowed.
+B. No U-turns allowed.
+C. You may go in the opposite direction.
+D. Do not turn left at the intersection.
+A080. B.
+Explanation: It is against the law in the presence of this No U-Turn Allowed sign to make a u-turn and go in the opposite direction. Do not turn to go in the opposite direction. Do not make a U-turn along this section of the road. Drivers should plan their route in advance. Even if a GPS says to make a U-turn, do not make a U-turn. Find an alternate route to the destination that does not involve making a U-turn.
+
+Q081. What does this sign mean?
+Image: 1.
+A. Turn left or turn right.
+B. Lane is not for left turns.
+C. Lane is only for two-way left turns.
+D. No U-turn.
+A081. C.
+Explanation: This sign, above the road or on the ground, means the lane is only for two-way left turns. 
+This sign usually appears on a special center lane in the roadway. The lane indicated by this sign permits vehicles in either direction to enter the lane in order to make a left turn. Drivers should enter the lane, then turn left when it is safe to do so. This lane is not a driving lane. Do not drive along this lane; do not pass in this lane. Yield the lane to other vehicles already in the lane.
+
+Q082. What does this sign mean?
+Image: 1.
+A. Do not drive in this lane on the day/time posted
+B. Vehicles shown are not allowed during specified times.
+C. Lane is for trucks only, shown vehicles are not allowed.
+D. During the specified times and days, lanes are only for the specified type of vehicles.
+A082. D.
+Explanation: These signs mean lanes are only for specific types of vehicles, either all the time or during certain hours. Different symbols are used for the different types of vehicles. During certain times and days, this lane is reserved for specific types of vehicles (e.g. buses, taxis, bicycles, and vehicles with three or more passengers).
+
+Q083. What does this sign mean?
+Image: 1.
+A. You may park in the area between the signs.
+B. Parking available on either side of the signs.
+C. Do not park in the area between the signs.
+D. Parking is allowed in front of the sign.
+A083. C.
+Explanation: This means you may not park your vehicle in the area between the signs, except to load or unload passengers or merchandise. Parking prohibited as indicated. These signs occur in pairs or groups.
+
+Q084. What does this sign mean?
+Image: 1.
+A. No parking allowed except for vehicles with valid Accessible Parking Permits.
+B. Do not park here.
+C. Accessible parking is not available in this area.
+D. Accessible Parking Permit holders must park their vehicles away from the area near the sign.
+A084. A.
+Explanation: This sign denotes parking spaces specifically reserved for vehicles displaying a valid Accessible Parking Permit.
+
+Q085. What does this sign mean?
+Image: 1.
+A. Pedestrian crosswalk up ahead.
+B. A railway crossing sign indicating railway tracks cross the road.
+C. Watch for wildlife crossing.
+D. Restricted area - Do not enter this area.
+A085. B.
+Explanation: This X shaped sign warns that railway tracks cross the road up ahead. You must slow down when approaching, look both ways for trains and be prepared to stop.
+
+Q086. What does this sign mean?
+Image: 1.
+A. Shows route to a passenger railway station.
+B. Railway crossing ahead.
+C. Train parking ahead.
+D. Train workshop ahead.
+A086. A.
+Explanation: Shows route to a passenger train station.
+
+Q087. What does this road sign mean?
+Image: 1.
+A. Pedestrian crosswalk ahead: yield to pedestrians.
+B. Hospital zone ahead: yield to oncoming traffic.
+C. 4-way intersection ahead: through traffic may proceed.
+D. Railway crossing ahead.
+A087. D.
+Explanation: Railway crossing ahead. Be alert for trains. The sign also indicates the angle at which the railway tracks cross. In this case, the symbol for the road and the symbol for the railway cross at 90 degree, which indicates that the railway tracks cross at a 90 degree angle to the road.
+
+Q088. What does this combination of icons board indicate?
+Image: 1.
+A. Indicates there are police, a hospital, an information desk and an airport in one building.
+B. Shows what services and facilities are located nearby or off-road.
+C. Shows what services and facilities are not available nearby or off-road.
+D. Indicates there is only an airport nearby.
+A088. B.
+Explanation: Indicates what services and facilities are available off the road. Other services can include carpool lots, universities etc.
+
+Q089. What does this sign mean?
+Image: 1.
+A. Lane closed ahead. Merge with traffic safely.
+B. Follow the detour markers/signs until you return to your regular route.
+C. Construction zone ahead.
+D. Highway entrance coming up.
+A089. B. 
+Explanation: This is a temporary condition sign. These signs warn of unusual temporary conditions such as road work zones, diversions, detours, lane closures or traffic control people on the road. This particular sign means Follow the detour markers until you return to the regular route.
+
+Q090. What does this sign mean?
+Image: 1.
+A. Advises drivers about next interchange.
+B. Shows updates on traffic, delays and lane closers ahead.
+C. Shows off-road facilities.
+D. Shows parks and recreation information.
+A090. B.
+Explanation: These signs change according to traffic conditions to give drivers current information on delays and lane closures ahead.
+
+Q091. What does this sign mean?
+Image: 1.
+A. No left turn allowed after the exit.
+B. Two right lanes must exit.
+C. Only right-most lane exits off the highway.
+D. Highway exit is coming up in 1 km.
+A091. C.
+Explanation: Advance signs are also used with exit signs to tell drivers to choose a correct line to exit the highway.
+
+Q092. What does this sign mean?
+Image: 1.
+A. Traffic must travel in one direction only.
+B. Construction zone begins in the direction of the arrow.
+C. Flashing lights on the arrows show the direction to follow.
+D. Lane exit ahead.
+A092. C.
+Explanation: Always obey the arrows with flashing lights indicating the direction you must follow.
+Temporary Sign: Construction – Veer Left. This sign warns drivers that the direction of the road has been altered due to construction. Drive in the direction indicated by the sign.
+
+Q093. What does this sign mean?
+Image: 1.
+A. Indicates a distance of 1 km to Oakville.
+B. Indicates a distance of 204 km to Trafalgar Rd.
+C. Indicates a distance of 204 km to Georgetown.
+D. Interchange 204 is in 1 km and it is 204 km from the beginning of the highway.
+A093. D.
+Explanation: Freeway interchanges or exits have numbers that correspond to the distance from the beginning of the freeway. For example, interchange number 204 on Highway 401 is 204 kilometers from Windsor, where the freeway begins. Distances can be calculated by subtracting one interchange number from another.
+
+Q094. What does this sign mean?
+Image: 1.
+A. Only for vehicles displaying a valid Accessible Parking Permit.
+B. Shows facilities that are accessible by wheelchair.
+C. There is a hospital nearby.
+D. Wheelchair crossing ahead.
+A094. B.
+Explanation: Shows facilities that are accessible by wheelchair.
+
+Q095. What does this sign mean?
+Image: 1.
+A. Do not cross lanes into or out of HOV lanes at this location.
+B. You may not pass safely to the right.
+C. You may pass safely to the left.
+D. No passing.
+A095. A.
+Explanation: Vehicles cannot change lanes into or out of a high-occupancy vehicle (HOV) lane in this area.
+
+Q096. What does this sign mean?
+Image: 1.
+A. Both Q.E.W. and 403 are coming up on the right.
+B. To get to the Q.E.W. highway go via the 403.
+C. The 401 exit is on the right.
+D. Shows direction to the highway Q.E.W. and 403.
+A096. B.
+Explanation: The term 'VIA' is used to describe the roads that must be followed to reach a destination.
+
+Q097. What does this sign mean?
+Image: 1.
+A. Shows provincial parks in the cities or towns posted.
+B. Shows distance to towns and cities.
+C. Shows direction of the lanes.
+D. Shows directions to nearby towns and cities.
+A097. D.
+Explanation: This sign shows which direction to choose to travel to nearby towns and cities.
+
+Q098. What does this road sign mean?
+Image: 1.
+A. Provincial park.
+B. Pedestrian control sign.
+C. Destination board.
+D. School zone; watch for children playing.
+A098. C.
+Explanation: This is a destination board with several destinations. This sign shows directions to nearby towns or cities. In this case, continue on the road to get to Barrie; turn left at the intersection to travel to Orillia; turn right to go to Midland.
+
+Q099. What does this sign mean?
+Image: 1.
+A. An exit sign to help drivers choose the correct lane to exit to Brampton Street.
+B. Two right lanes must exit to Brampton Street.
+C. The road splits into three lanes up ahead.
+D. A left turn is not allowed on Brampton Street.
+A099. A.
+Explanation: An exit sign on freeways to help drivers choose the correct lane to exit or stay on the freeway.
+
+Q100. What does this sign mean?
+Image: 1.
+A. Shows distance to Kitchener before London.
+B. Shows directions to nearby towns and cities.
+C. Shows the distances in kilometers to towns and cities on the road.
+D. Shows the distance to nearby campgrounds.
+A100. C.
+Explanation: Shows the distances in kilometers to towns and cities on the road.
+
+Q101. What does this sign mean?
+Image: 1.
+A. Only public or passenger vehicles carrying two or more passengers may use this lane.
+B. Only buses or cars are allowed in this lane.
+C. Buses or cars are not allowed in this lane.
+D. This lane is for loading and unloading of passengers only.
+A101. A.
+Explanation: Only public vehicles such as buses, or passenger vehicles carrying a specified minimum number of passengers, may use this lane.
+This is an HOV (High Occupancy Vehicle) highway sign; two or more occupants must be in the vehicle to use this lane on the highway. Vehicles with the Green licence plate are permitted in the HOV lane with any number of occupants.
+
+Q102. What does this sign mean?
+Image: 1.
+A. Dead end ahead.
+B. Snow removing vehicle ahead.
+C. Slow moving vehicle ahead is traveling at 40 km/h or less.
+D. Yield right-of-way.
+A102. C.
+Explanation: This sign alerts other drivers that the vehicle ahead will be traveling at 40 km/h or less. When on a road, farm tractors, farm implements/machinery, and vehicles not capable of sustaining speeds over 40 km/h must display the slow-moving vehicle sign.
+Tractors, farm machinery, or any heavy equipment vehicles which travel at speeds of 40km/h or less must display this Slow-Moving Vehicle sign. When approaching a vehicle displaying this sign, drivers should slow down and be prepared to drive at a lower speed. Drivers must not pass until it is legal and safe to do so.
+
+Q103. What does this sign mean?
+Image: 1.
+A. Port route.
+B. Ferry service route.
+C. Bridge ahead.
+D. No swimming, boats may pass.
+A103. B.
+Explanation: Follow the sign to get to a ferry service.
+
+Q104. What does this sign mean?
+Image: 1.
+A. Air show ahead.
+B. Airplane landing area.
+C. Shows route to the airport.
+D. Airplane parking area.
+A104. C.
+Explanation: Shows route to the airport.
+
+Q105. A green circle
+Image: 1.
+A. is a permissive sign.
+B. indicates a truck route.
+C. indicates a route for large trucks.
+D. indicates no trucks allowed.
+A105. A.
+Explanation: A regulatory sign with a green circle means you may or must do the activity shown inside the ring, hence, it is a permissive sign.
+This sign permits an action. The action permitted varies, depending on the sign. For example, if the sign includes a bicycle, the sign means that bicycles are permitted to use the roadway.
+
+Q106. This image indicates
+Image: 1.
+A. a sign for temporary conditions.
+B. a regulatory sign.
+C. a warning sign.
+D. a sign for information and direction.
+A106. B.
+Explanation: A red circle with a line through it means the activity shown inside the ring is not allowed.
+
+Q107. What does this road sign mean?
+Image: 1.
+A. Traffic circle ahead.
+B. Roundabout ahead.
+C. Prohibited sign.
+D. Do not enter roadway.
+A107. C.
+Explanation: This sign prohibits an action. The action prohibited varies, depending on the sign. For example, if the sign includes a left turn arrow, the sign means No Left Turns.
+
+Q108. What does this sign mean?
+Image: 1.
+A. Truck route.
+B. Parking is permitted.
+C. Dangerous goods route.
+D. Passing allowed.
+A108. C.
+Explanation: Dangerous goods may be transported along this roadway. Drivers transporting dangerous goods must follow all relevant laws regulating the transport of dangerous goods.
+
+Q109. What does this sign mean?
+Image: 1.
+A. No parking.
+B. Dangerous goods prohibited.
+C. Do not cross.
+D. Do not enter.
+A109. B.
+Explanation: Dangerous goods may not be transported along this roadway. Drivers transporting dangerous goods must plan their route appropriately. They may not travel along this roadway.
+
+Q110. What does this road sign mean?
+Image: 1.
+A. You must come to a complete stop and yield the right of way to passing vehicles from both directions. Do not proceed until safe.
+B. Stop 150 meters ahead.
+C. Stop only if other vehicles are approaching.
+D. Stop sign ahead. Slow down and drive through the intersection with caution, if you see other vehicles.
+A110. A.
+Explanation: Drivers must stop the vehicle completely by applying the brakes firmly and ensuring that the vehicle has stopped moving. Pausing the vehicle by braking slightly, then continuing through the intersection without stopping completely (also known as a rolling stop) is not considered a complete stop. Drivers who do not come to a complete stop can be charged by the police. Once the vehicle is fully stopped, drivers should wait until the way is clear before entering the intersection.
+
+Q111. What does this sign mean?
+Image: 1.
+A. Stop at the intersection.
+B. Reduce speed and be prepared to stop.
+C. Slow down, stop and leave the construction zone.
+D. Stop sign ahead.
+A111. B.
+Explanation: These sgins may be held by road work personnel. Reduce speed and be prepared to stop.
+
+Q112. What does this sign mean?
+Image: 1.
+A. Watch for construction trucks entering.
+B. You are entering the construction zone. Obey the posted speed limit.
+C. Gravel road ahead.
+D. Survey crew ahead.
+A112. B.
+Explanation: You are entering a construction zone. Drive with extra caution and be prepared for a lower speed limit.
+
+Q113. What does this sign mean?
+Image: 1.
+A. Survey crew working ahead.
+B. Roadwork ahead.
+C. Construction zone ahead.
+D. Traffic control person ahead.
+A113. D.
+Explanation: Traffic control person ahead. Drive slowly and watch for instructions.
+
+Q114. What does this sign mean?
+Image: 1.
+A. Filming crew ahead.
+B. Survey crew ahead.
+C. Sightseeing ahead.
+D. Bird watchers ahead.
+A114. B.
+Explanation: Survey crew working on the road ahead. Drive with caution.
+
+Q115.  What does this sign mean?
+Image: 1.
+A. Road work ahead.
+B. Construction personnel with a road sign.
+C. A person controlling traffic ahead.
+D. Survey crew assessing road ahead.
+A115. A.
+Explanation: This sign warns of road work operation or construction ahead. Drivers should adjust speed and be prepared to stop if necessary. Use caution when driving as there may be construction workers on duty. Be alert and watch for other related construction signs.
+
+Q116. What does this sign mean?
+Image: 1.
+A. This lane must turn left.
+B. Lane changes in the direction of the arrow.
+C. Hidden intersection ahead.
+D. Closed lane. Adjust speed to merge with traffic in lane indicated by the arrow.
+A116. D.
+Explanation: Closed lane. Adjust speed to merge with traffic in lane indicated by the arrow.
+
+Q117. What does this sign mean?
+Image: 1.
+A. Survey crew assessing road ahead.
+B. Fallen rock ahead.
+C. Road closed ahead.
+D. Construction work 1 km ahead.
+A117. D.
+Explanation: Construction work 1 km ahead. Follow the speed limit and proceed with caution.
+Drivers should adjust speed and be prepared to stop if necessary. Use caution when driving as there may be construction workers on duty. Be alert and watch for other related construction signs.
+
+Q118. What does this sign mean?
+Image: 1.
+A. Fallen rocks on the road.
+B. Paved road ends and gravel road ahead.
+C. Pavement has been milled or grooved. Drive cautiously and with reduced speed.
+D. Bridge crossing ahead.
+A118. C.
+Explanation: Pavement has been milled or grooved. Your vehicle's stopping ability may be affected so obey the speed limit and drive with extra caution. Motorcyclists may experience reduced traction on these surfaces.
+
+Q119. What does this sign mean?
+Image: 1.
+A. Scott road exit is 1234 km from the beginning of the highway.
+B. Numbers at the bottom assist emergency vehicles to plan best routes.
+C. Bowesville road exit is 1240 km from the beginning of the highway.
+D. Two interchanges coming ahead.
+A119. B.
+Explanation: An informa­tion sign that includes a numbering system along the bottom of the sign to assist emergency vehicles and drivers in determining an appropriate route.
+
+Q120. What does this road sign mean?
+Image: 1.
+A. Horse racing.
+B. Hills.
+C. Off-road facilities - Hospital.
+D. Housing.
+A120. C.
+Explanation: This is a Hospital sign.
+
+Q121. What does this road sign mean?
+Image: 1.
+A. No smoking.
+B. Idling permitted.
+C. No idling for more than 3 minutes.
+D. No stopping for more than 3 minutes.
+A121. C.
+Explanation: This is a No Idling sign.
+
+Q122. What does this road sign mean?
+Image: 1.
+A. Watch for traffic signals.
+B. Be cautious of pedestrians.
+C. Do not block the intersection.
+D. Do not slow down.
+A122. C.
+Explanation: This is a Do Not Block the Intersection road sign.
+
+Q123. What does this sign mean?
+Image: 1.
+A. This is the end of the highway; you must move into the right-hand lane.
+B. You may exit if you remain in the right-hand lane.
+C. You must exit if you remain in the right-hand lane.
+D. You must not drive in the right-hand lane under any circumstances.
+A123. C.
+Explanation: This sign means Right Lane Must Exit.
+
+Q124. What is the driver showing?
+Image: 1.
+A. I am stopping.
+B. I am turning left.
+C. I am turning right.
+D. I am slowing or stopping.
+A124. B.
+Explanation: Turning left - If your signal lights or brake lights fail, this hand signal must be used.
+
+Q125. What does this sign mean?
+Image: 1.
+A. I am turning left.
+B. You may pass me.
+C. I am slowing or stopping.
+D. I am turning right.
+A125. C.
+Explanation: Slowing or stopping - If your signal lights or brake lights fail, this hand signal must be used.
+
+Q126. What does this sign mean?
+Image: 1.
+A. You may pass me.
+B. I am turning right.
+C. I am turning left.
+D. I am slowing or stopping.
+A126. B.
+Explanation: Turning right - If your signal lights or brake lights fail, this hand signal must be used.
+
+Q127. What does this sign mean?
+Image: 1.
+A. Shows directions to nearby towns or cities.
+B. Shows the upcoming roundabout exits and where they will take you.
+C. Shows distances to towns or cities.
+D. Indicates an upcoming railway crossing.
+A127. B.
+Explanation: This sign shows the upcoming roundabout exits and where they will take you.
+
+Q128. What does this sign mean?
+Image: 1.
+A. You may exit if you remain in right-hand lane.
+B. Sharp curves in the road.
+C. Roundabout ahead. Reduce Speed.
+D. Hazard close to the edge of the road.
+A128. C.
+Explanation: These are found in some areas to help traffic get through an intersection safely without necessarily stopping the flow of the traffic.
+
+Q129. What does this road sign mean?
+Image: 1.
+A. It is safe to enter this area.
+B. Be more aware of pedestrians and your speed in this area.
+C. Do not enter this area.
+D. You may ignore this sign.
+A129. B.
+Explanation: This sign indicates areas where the community has identified that there is a special risk to pedestrians. Traffic related offences committed within this zone are subject to increased fines.
+
+Q130. What does this sign mean?
+Image: 1.
+A. Slow traffic on multi-lane roads must keep right.
+B. X intersection for school vehicles.
+C. Caution school bus crossing.
+D. School crosswalk sign.
+A130. A.
+Explanation: When travelling on a multi-lane road, slower traffic must use the right lane(s). The left lane(s) is (are) intended for vehicles that are passing other, slower traffic. Use the left lane to pass, then pull over to the right lane and travel in the right lane.
+
+Q131. The broken centre line on your side of the roadway means you may:
+Image: 1.
+A. Pass at any time.
+B. Pass if the way is clear.
+C. Never pass.
+D. Pass only during daylight hours.
+A131. B. 
+Explanation: The broken centre line on your side of the roadway means you may pass if the way is clear.
